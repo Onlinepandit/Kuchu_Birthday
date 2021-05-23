@@ -1077,7 +1077,7 @@ audio {
 
 .balloons {
 	position: fixed;
-	bottom: 100px;
+	bottom: -200px;
 	opacity: 0.6;
 	z-index: 99;
 	width: 100px;
@@ -1251,7 +1251,7 @@ audio {
 
 .balloon-border{
 	position: fixed;
-	top:100%;
+	top: 99%;
 	opacity: 0.5;
 	z-index: 9999;
 }
