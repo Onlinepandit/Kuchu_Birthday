@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #ffffff;
+	background-color: #FFDAB9;
 	
 }
 .peach-after {
@@ -25,19 +25,19 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #ffffff;
+		background-color: #FFDAB9;
 	}
 	25%{
-		background-color: #ffffff;
+		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #ffffff;
+		background-color: #FFDAB9;
 	}
 	75%{
-		background-color: #ffffff;
+		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #ffffff;
+		background-color: #FFDAB9;
 	}
 }
 @-moz-keyframes peach_alive {
@@ -1077,7 +1077,7 @@ audio {
 
 .balloons {
 	position: fixed;
-	bottom: -200px;
+	bottom: 100px;
 	opacity: 0.6;
 	z-index: 99;
 	width: 100px;
